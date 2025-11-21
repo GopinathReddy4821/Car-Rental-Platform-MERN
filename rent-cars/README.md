@@ -71,6 +71,15 @@ To deploy the application to GitHub Pages:
 4. GitHub Pages will automatically deploy the application, and it will be
    accessible at https://<username>.github.io/rent-cars.
 
+## My Contribution
+This project was developed as a team. I contributed to backend development including:
+- Node.js/Express server setup
+- Registration API routes
+- MongoDB Atlas integration
+- Backend–Frontend connection
+- CORS handling and input validation
+
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for
